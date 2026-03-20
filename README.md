@@ -205,7 +205,9 @@ Real-Time Control Systems
 # Author
 
 Mitesh Salvi
+
 MEng (Hons) Intelligent Automation & Robotics
+
 Edge Hill University
 
 # Support
