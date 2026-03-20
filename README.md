@@ -24,13 +24,6 @@ Integrated hardware + software + mobile interface
 
 /media/demo.gif
 # System Diagram
-Smartphone Application
-        ↓
-Bluetooth Communication (HC-05)
-        ↓
-Arduino Microcontroller
-        ↓
-Servo Motors (4 DOF Robotic Arm)
 +---------------------+
 |   Smartphone App    |
 | (MIT App Inventor)  |
