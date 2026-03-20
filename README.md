@@ -20,9 +20,8 @@ Integrated hardware + software + mobile interface
 
 # Demo
 
-👉 (Add your demo GIF here for best results)
+![demo video](Servo-Based%20Robotic%20Arm%20with%20Memory%20Playback.mp4)
 
-/media/demo.gif
 # System Diagram
 +---------------------+
 |   Smartphone App    |
