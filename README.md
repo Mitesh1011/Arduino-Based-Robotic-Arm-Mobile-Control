@@ -24,6 +24,13 @@ Integrated hardware + software + mobile interface
 
 /media/demo.gif
 # System Diagram
+Smartphone Application
+        ↓
+Bluetooth Communication (HC-05)
+        ↓
+Arduino Microcontroller
+        ↓
+Servo Motors (4 DOF Robotic Arm)
 +---------------------+
 |   Smartphone App    |
 | (MIT App Inventor)  |
@@ -80,9 +87,9 @@ RX	D4
 ⚠️ Use an external power supply for stable operation.
 
 # App Interface
-# Application Preview
+ Application Preview
 
-# Interface Description
+ Interface Description
 
 # Connect / Disconnect Buttons
 Establish Bluetooth communication
@@ -171,7 +178,7 @@ The mobile app sends commands via Bluetooth
 
 Arduino processes incoming data
 
-Servo motors move according to received angles
+Servo motors move according to the received angles
 
 Positions can be stored and replayed
 
@@ -205,14 +212,14 @@ Real-Time Control Systems
 
 # Author
 
-Your Name
-MSc Intelligent Automation & Robotics
+Mitesh Salvi
+MEng (Hons) Intelligent Automation & Robotics
 Edge Hill University
 
 # Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
-📄 License
+# License
 
 MIT License
