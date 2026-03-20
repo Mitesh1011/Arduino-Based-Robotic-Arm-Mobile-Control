@@ -175,9 +175,10 @@ Servo motors move according to the received angles
 Positions can be stored and replayed
 
 # Project Gallery
-/images/robot_arm.jpg
-/images/circuit.jpg
-/images/app_interface.jpg
+! [image circuit](./Wiring%20connection.png)
+! [app_interface](./Arduino_Robot_Arm_Control_app.jpeg)
+! [demo video](./VID-20240728-WA0005.mp4)
+! [wining cirtificate](./VID-20240728-WA0006.mp4)
 # Future Improvements
 
 Inverse kinematics implementation
