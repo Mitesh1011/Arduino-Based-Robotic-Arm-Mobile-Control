@@ -82,6 +82,7 @@ RX	D4
  Application Preview
 
  Interface Description
+! [image circuit](/Photos_and_Videos/Wiring%20connection.png)
 
 # Connect / Disconnect Buttons
 Establish Bluetooth communication
@@ -139,7 +140,7 @@ s2<angle>
 s3<angle>
 s4<angle>
 # Arduino Code
-'''
+```
 #include <SoftwareSerial.h>
 #include <Servo.h>
 
@@ -165,7 +166,7 @@ void loop() {
     if (data.startsWith("s4")) servo4.write(data.substring(2).toInt());
   }
 }
-'''
+```
 # Working Principle
 
 The mobile app sends commands via Bluetooth
@@ -177,10 +178,11 @@ Servo motors move according to the received angles
 Positions can be stored and replayed
 
 # Project Gallery
-! [image circuit](./Wiring%20connection.png)
-! [app_interface](./Arduino_Robot_Arm_Control_app.jpeg)
-! [demo video](./VID-20240728-WA0005.mp4)
-! [wining cirtificate](./VID-20240728-WA0006.mp4)
+
+! [image circuit](/Photos_and_Videos/Wiring%20connection.png)
+! [app_interface](/Photos_and_Videos/Arduino_Robot_Arm_Control_app.jpegArduino_Robot_Arm_Control_app.jpeg)
+! [demo video](/VID-20240728-WA0005.mp4)
+! [wining cirtificate](/VID-20240728-WA0006.mp4)
 # Future Improvements
 
 Inverse kinematics implementation
