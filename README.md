@@ -139,6 +139,7 @@ s2<angle>
 s3<angle>
 s4<angle>
 # Arduino Code
+'''
 #include <SoftwareSerial.h>
 #include <Servo.h>
 
@@ -164,6 +165,7 @@ void loop() {
     if (data.startsWith("s4")) servo4.write(data.substring(2).toInt());
   }
 }
+'''
 # Working Principle
 
 The mobile app sends commands via Bluetooth
