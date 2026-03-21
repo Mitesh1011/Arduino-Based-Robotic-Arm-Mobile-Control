@@ -20,7 +20,7 @@ Integrated hardware + software + mobile interface
 
 # Demo
 
-![demo video](./Servo-BasedRoboticArmwithMemoryPlayback-ezgif.com-speed.gif)
+![demo video](./Photos_and_Videos/Servo-BasedRoboticArmwithMemoryPlayback-ezgif.com-speed.gif)
 
 # System Diagram
 +---------------------+
