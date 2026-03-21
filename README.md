@@ -82,7 +82,7 @@ RX	D4
  Application Preview
 
  Interface Description
-! [image circuit](/Photos_and_Videos/Wiring%20connection.png)
+![Circuit](/Photos_and_Videos/Wiring%20connection.png)
 
 # Connect / Disconnect Buttons
 Establish Bluetooth communication
@@ -179,10 +179,10 @@ Positions can be stored and replayed
 
 # Project Gallery
 
-! [image circuit](/Photos_and_Videos/Wiring%20connection.png)
-! [app_interface](/Photos_and_Videos/Arduino_Robot_Arm_Control_app.jpegArduino_Robot_Arm_Control_app.jpeg)
-! [demo video](/VID-20240728-WA0005.mp4)
-! [wining cirtificate](/VID-20240728-WA0006.mp4)
+![Circuit](/Photos_and_Videos/Wiring%20connection.png)
+![App_interface](/Photos_and_Videos/Arduino_Robot_Arm_Control_app.jpegArduino_Robot_Arm_Control_app.jpeg)
+![demo video](/VID-20240728-WA0005.mp4)
+![wining_cirtificate](/VID-20240728-WA0006.mp4)
 # Future Improvements
 
 Inverse kinematics implementation
